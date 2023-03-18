@@ -17,3 +17,14 @@ Considering this is a scratch book I cannot guarantee the algorithms are impleme
 * First-visit monte carlo (on/off policy)
 * Temporal difference learning: on-policy (SARSA) / off-policy (Q-learning)
 
+Planned to be done by 20/03:
+Implementation of a (subset) of:
+* ~~Off-policy variant of Monte-Carlo using importance sampling~~
+* ~~Temporal-difference learning~~
+  * Sarsa
+  * Q-learning
+*  Actor-critic methods
+* DQN
+* Policy-gradient methods
+* …
+
